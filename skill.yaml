@@ -1,0 +1,10 @@
+name: local_story_factory
+title: Local story factory
+description: 'Develop a raw story idea into a complete, gated story concept: intake, intersection/triage, premise development, codification, bible build, arc plan, and handoff to the chapter pipeline. Guiding-interview format with the author as creative authority. Trigger when the author says he has a story idea (any phrasing).'
+include_in_prompt: false
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
